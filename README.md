@@ -1,5 +1,4 @@
 # NixieThermometer
-Nixie Thermometer
 
 BOM List
 
