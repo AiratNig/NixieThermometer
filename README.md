@@ -35,4 +35,9 @@ BOM List
 |29|IN-14|N1,N2||2|
 |30|2N7002DW|Q13|SOT-363|1|
 
+ATtiny44 fuses:
+Low: `0xE2`
+High: `0xDF`
+Extended: `0xFF`
+
 
