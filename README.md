@@ -1,7 +1,7 @@
 # NixieThermometer
 Термометр/гигрометр на ламповых индикаторах ИН-14 и ИН-19А.
 
-BOM List
+Список элементов
 
 |ID|Name|Designator|Footprint|Quantity|
 |--|----|----------|---------|--------|
@@ -36,6 +36,6 @@ BOM List
 |29|IN-14|N1,N2||2|
 |30|2N7002DW|Q13|SOT-363|1|
 
-ATtiny44 fuses: low: `0xE2`, high: `0xDF`, extended: `0xFF`
+Фьюзы ATtiny44: low: `0xE2`, high: `0xDF`, extended: `0xFF`
 
 
