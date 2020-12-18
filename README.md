@@ -5,7 +5,7 @@
 
 |ID|Name|Designator|Footprint|Quantity|
 |--|----|----------|---------|--------|
-|1|ATTINY44A-SSUR|U1|SOP-14|1|
+|1|ATTINY44A-SSU|U1|SOP-14|1|
 |2|FQD10N20CTM|Q1|DPAK|1|
 |3|1N4148WS|D1,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12|SOD-323|11|
 |4|LED|LED1,LED2,LED3|SMD_3528|3|
