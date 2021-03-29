@@ -1,6 +1,7 @@
 # NixieThermometer
 Термометр/гигрометр на индикаторных лампах ИН-14 и ИН-19А.
 
+<img src="https://github.com/AiratNig/NixieThermometer/blob/master/img/IMG_2782.JPG" width="30%"> <img src="https://github.com/AiratNig/NixieThermometer/blob/master/img/IMG_2781.JPG" width="30%">
 
 
 Список элементов
